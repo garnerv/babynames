@@ -4,12 +4,6 @@
 
 #  Student Name: Garner Vincent
 
-#  Student UT EID: GV4353
-
-#  Course Name: CS 313E
-
-#  Unique Number: 51730
-
 #  Date Created: 3-10-15
 
 #  Date Last Modified: 3-12-15
